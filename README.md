@@ -32,7 +32,7 @@ npm run start
 - `/tutorials` - Step-by-step tutorials for developers
 
 ## Links
-- [Core Protocol](../mcp-core)
-- [Agents](../mcp-agents)
-- [Server](../mcp-server)
-- [Examples](../mcp-examples)
+- [Core Protocol](https://github.com/MyCryptoProtocol/mcp-core)
+- [Agents](https://github.com/MyCryptoProtocol/mcp-agents)
+- [Server](https://github.com/MyCryptoProtocol/mcp-server)
+- [Examples](https://github.com/MyCryptoProtocol/mcp-examples)
